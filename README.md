@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Lumazini
 - 👀 I’m code in MS-DOS (bat. File)
 - 🌱 I’m currently learning java script
+- 📺 Visit musica Channel on YouTube: https://youtube.com/channel/UCCDHZbCirMnOeAyWcaUan6Q
 - 📫 contact me in: lumaziniplay+github@gmail.com
 
 
